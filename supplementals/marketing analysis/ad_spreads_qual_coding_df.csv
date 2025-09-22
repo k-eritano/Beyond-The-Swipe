@@ -1,0 +1,18 @@
+﻿App Name,"Bright Colors (does the color pallete look more neon, bright, loud? 1 = yes, 0 = no)","Muted Colors (does the color pallete look more softer and neutral? 1 = yes, 0 = no)","Lowercase (is the text all lowercase or mostly lowercase, such as starting with a capitalized letter and only lower case following it? 1 = yes, 0 = no)","Upper Case (is the text in all caps or mostly all caps? 1 = yes, 0 = no) ","Title Case (is the text using more formal capitalization, such as only capitalizing key words as one would do with an academic book title? 1 = yes, 0 = no)","Serifs (does the text used serifed font? 1 = yes, 0 = no)","Sans Serif (does the text use font without serifs? 1 = yes, 0 = no) ",# models smiling on title slide ,# models not smiling on title slide ,# of white models on title slide,# of POC or racially ambiguous models on title slide,# models fully clothed on title slide,# models not fully clothed on title slide
+Tinder,1,0,0,1,1,0,1,2,0,2,0,2,0
+Bumble,1,0,0,1,0,0,1,2,0,1,1,2,0
+Hinge,0,1,0,0,1,1,0,0,2,0,2,2,0
+HER,1,0,0,0,1,0,1,2,0,0,2,2,0
+Zoe,1,0,0,1,0,0,1,2,0,2,0,2,0
+Grindr,1,0,0,0,1,0,1,0,1,1,0,0,1
+Scruff,1,0,0,1,1,1,1,0,2,1,1,1,1
+Taimi,1,0,0,0,1,0,1,1,1,0,2,2,0
+Millionaire Match,0,1,0,0,1,1,0,2,0,2,0,2,0
+Luxy,0,1,0,0,1,1,0,1,0,1,0,1,0
+The League,0,1,0,0,1,1,0,1,1,1,1,2,0
+Christian Mingle,1,0,0,1,1,0,1,1,1,2,0,2,0
+Muzz,1,0,0,0,1,0,1,9,0,0,9,9,0
+Jswipe,1,0,0,0,1,0,1,1,0,0,1,1,0
+Mutual,0,1,1,0,0,0,1,1,1,2,0,2,0
+Senior Match,0,1,0,0,1,1,0,2,0,2,0,2,0
+Ourtime,1,0,0,0,1,0,1,1,0,1,0,1,0
