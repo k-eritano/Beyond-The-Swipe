@@ -49,22 +49,68 @@ We combined **manual qualitative coding** with **data science methods** (TF-IDF,
   - Data visualizations highlighting distribution of review topics, sentiment, and review length.  
 
 
-## Results
-- **Marketing clusters**: Apps fell into 4 groups based on branding and description text:
-  1. **Queer Male Apps**: Grindr, SCRUFF.  
-  2. **General & Niche Apps**: Tinder, Bumble, HER, Zoe, Taimi, Christian Mingle, Muzz, Jswipe, Mutual, Ourtime.  
-  3. **Relationship-Oriented**: Hinge.  
-  4. **Exclusive/High-Status Apps**: Millionaire Match, Luxy, The League, Senior Match.  
+## Results  
 
-- **Marketing differentiators**:  
-  - Color scheme, model expression, and model ethnicity were the strongest distinguishing features.  
+Our analysis revealed patterns in both **marketing strategies** and **user experiences** across dating apps.  
 
-- **User review patterns**:  
-  - **Negative reviews were longer** than positive ones.  
-  - **Queer sapphic apps** had the highest rate of positive sentiment.  
-  - **Religious apps** had the highest rate of negative sentiment.  
-  - Monetization, user interactions, and poor UX were the dominant negative themes.  
+### Marketing Clusters  
+Apps grouped into four categories based on branding and description text:  
+1. **Queer Male Apps**: Grindr, SCRUFF  
+2. **General & Niche Apps**: Tinder, Bumble, HER, Zoe, Taimi, Christian Mingle, Muzz, Jswipe, Mutual, Ourtime  
+3. **Relationship-Oriented**: Hinge  
+4. **Exclusive/High-Status Apps**: Millionaire Match, Luxy, The League, Senior Match  
 
+
+### Marketing Visuals  
+We identified four distinct styles in app store imagery, defined by **color scheme, typography, and model representation**.  
+
+![Heatmap](Marketing-Features-Heatmap.png)  
+
+- **Cluster 1 – Blended Style**  
+  Mix of bright and muted colors; serif and sans-serif fonts. Models not smiling, fully clothed. Balanced representation of white and POC models.  
+
+- **Cluster 2 – Bright & Polished**  
+  Bright colors and sans-serif fonts. Models smiling, fully clothed. Predominantly white models.  
+
+- **Cluster 3 – Muted & Serious**  
+  Muted tones, serif fonts. Models not smiling, fully clothed. Strong focus on POC models; very few white models.  
+
+- **Cluster 4 – Muted & Provocative**  
+  Muted colors and serif fonts. Models smiling but not fully clothed. High proportion of white models, lower representation of POC.  
+
+
+### User Review Patterns  
+Analysis of user feedback revealed consistent trends in **review length, sentiment, and sources of dissatisfaction**.  
+
+#### Review Length and Rating  
+- **1–2 star reviews** were much longer (31–34 words on average).  
+- **5-star reviews** were very short (≈9 words).  
+
+![Review Length and Star Rating](Reviews-Average-Word-Count-Rating.png)  
+
+This suggests dissatisfied users write detailed complaints, while satisfied users leave brief praise.  
+
+#### Positive vs. Negative Sentiment  
+- **Queer sapphic apps** (e.g., Zoe, Her) had the highest proportion of positive reviews.  
+- **Exclusive apps** (e.g., The League) and **Queer male apps** (e.g., Grindr) had the highest negative sentiment.  
+
+![Negative Sentiment](Proportion-Negative-Sentiment.png)  
+![Positive Sentiment](Proportion-Positive-Sentiment.png)  
+
+#### Sources of User Unhappiness  
+
+- **Social Interactions:**  
+  - Seniors apps → 44% of reviews cite negative social experiences.  
+  - Mainstream apps → 41% cite negative social experiences.  
+  - Queer sapphic apps → 15% cite negative social experiences.  
+
+![Social Interactions](Proportion-Negative-Social-Interactions.png)  
+
+- **Monetization:**  
+  - Religious apps → 38% of reviews cite issues with monetization.  
+  - Queer sapphic apps → only 9% of reviews cite monetization issues.  
+
+![Monetization](Proportion-Unhappy-Monetization.png)  
 
 ## References:
 [1] [Key findings about online dating in the U.S.](https://www.pewresearch.org/short-reads/2023/02/02/key-findings-about-online-dating-in-the-u-s/) (Pew Research Center)
