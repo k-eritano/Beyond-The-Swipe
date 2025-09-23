@@ -64,7 +64,7 @@ Apps grouped into four categories based on branding and description text:
 ### Marketing Visuals  
 We identified four distinct styles in app store imagery, defined by **color scheme, typography, and model representation**.  
 
-![Heatmap](Marketing-Features-Heatmap.png)  
+![Heatmap](graphics/Marketing-Features-Heatmap.png)  
 
 - **Cluster 1 – Blended Style**  
   Mix of bright and muted colors; serif and sans-serif fonts. Models not smiling, fully clothed. Balanced representation of white and POC models.  
@@ -86,7 +86,7 @@ Analysis of user feedback revealed consistent trends in **review length, sentime
 - **1–2 star reviews** were much longer (31–34 words on average).  
 - **5-star reviews** were very short (≈9 words).  
 
-![Review Length and Star Rating](Reviews-Average-Word-Count-Rating.png)  
+![Review Length and Star Rating](graphics/Reviews-Average-Word-Count-Rating.png)  
 
 This suggests dissatisfied users write detailed complaints, while satisfied users leave brief praise.  
 
@@ -94,8 +94,8 @@ This suggests dissatisfied users write detailed complaints, while satisfied user
 - **Queer sapphic apps** (e.g., Zoe, Her) had the highest proportion of positive reviews.  
 - **Exclusive apps** (e.g., The League) and **Queer male apps** (e.g., Grindr) had the highest negative sentiment.  
 
-![Negative Sentiment](Proportion-Negative-Sentiment.png)  
-![Positive Sentiment](Proportion-Positive-Sentiment.png)  
+![Negative Sentiment](graphics/Proportion-Negative-Sentiment.png)  
+![Positive Sentiment](graphics/Proportion-Positive-Sentiment.png)  
 
 #### Sources of User Unhappiness  
 
@@ -104,13 +104,13 @@ This suggests dissatisfied users write detailed complaints, while satisfied user
   - Mainstream apps → 41% cite negative social experiences.  
   - Queer sapphic apps → 15% cite negative social experiences.  
 
-![Social Interactions](Proportion-Negative-Social-Interactions.png)  
+![Social Interactions](graphics/Proportion-Negative-Social-Interactions.png)  
 
 - **Monetization:**  
   - Religious apps → 38% of reviews cite issues with monetization.  
   - Queer sapphic apps → only 9% of reviews cite monetization issues.  
 
-![Monetization](Proportion-Unhappy-Monetization.png)  
+![Monetization](graphics/Proportion-Unhappy-Monetization.png)  
 
 ## References:
 [1] [Key findings about online dating in the U.S.](https://www.pewresearch.org/short-reads/2023/02/02/key-findings-about-online-dating-in-the-u-s/) (Pew Research Center)
