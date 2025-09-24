@@ -122,6 +122,19 @@ This suggests dissatisfied users write detailed complaints, while satisfied user
 
 ![Monetization](graphics/Proportion-Unhappy-Monetization.png)  
 
+## Limitations  
+
+- The dataset was collected from a selective sample of Google Play Store reviews and does not include other review sources.  
+- Only a small subset of the total available reviews was analyzed.  
+- Findings represent exploratory trends; no statistical testing was performed to establish significance.  
+
+## Looking Forward  
+
+If this project were expanded, potential next steps could include:  
+- Incorporating reviews from additional sources to broaden the dataset.  
+- Conducting temporal analyses to examine how marketing strategies evolve over time.  
+- Applying statistical tests to validate the observed trends.  
+
 ## References:
 [1] [Key findings about online dating in the U.S.](https://www.pewresearch.org/short-reads/2023/02/02/key-findings-about-online-dating-in-the-u-s/) (Pew Research Center)
 
