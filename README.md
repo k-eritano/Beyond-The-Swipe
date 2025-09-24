@@ -127,6 +127,7 @@ This suggests dissatisfied users write detailed complaints, while satisfied user
 - The dataset was collected from a selective sample of Google Play Store reviews and does not include other review sources.  
 - Only a small subset of the total available reviews was analyzed.  
 - Findings represent exploratory trends; no statistical testing was performed to establish significance.  
+- The data do not allow for any causal conclusions regarding the relationship between marketing style and user experience.
 
 ## Looking Forward  
 
